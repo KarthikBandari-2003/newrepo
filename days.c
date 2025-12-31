@@ -1,3 +1,5 @@
 monday
 tuesday
 wenesday
+thursday
+
